@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
         textEmail = findViewById(R.id.text_email);
         editName = findViewById(R.id.exit_name);
         editEmail = findViewById(R.id.exit_email);
-
         btnHere = findViewById(R.id.btn_here);
         btnHere.setOnClickListener((btnHereListener));
     }
